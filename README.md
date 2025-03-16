@@ -11,7 +11,8 @@ Repositório para armazenar recursos sobre Git e GitHub do curso Versonamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]()|
+| Aula 1 | [Resumo]()|
+| Aula 2 | [Resumo]()|
 
 ----
 git init 
